@@ -1,0 +1,5 @@
+{
+  "title": "egghead.io Review 101",
+  "description": "This guide will help you on your journey to reviewing on egghead.io.",
+  "plugins" : ["advanced-emoji", "prism", "-highlight", "hints"]
+}

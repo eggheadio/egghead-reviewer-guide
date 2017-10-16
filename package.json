@@ -1,0 +1,21 @@
+{
+  "name": "egghead-reviewers-guide",
+  "version": "1.0.0",
+  "description": "We want to help people build better software and level-up their careers as developers. We don't like long drawn out lectures. We prefer to show instead of tell. We want to see the code, and not a slide show of bullet points. We want our content to be up-to-date with the latest technology",
+  "main": "index.js",
+  "engines": {
+    "node": ">=7.0.0"
+  },
+  "scripts": {
+    "dev": "gitbook serve",
+    "build": "gitbook build",
+    "verify": "yarn build"
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "gitbook-cli": "^2.3.0",
+    "gitbook-plugin-advanced-emoji": "^0.2.1",
+    "gitbook-plugin-hints": "^1.0.1",
+    "gitbook-plugin-prism": "^1.0.0"
+  }
+}
