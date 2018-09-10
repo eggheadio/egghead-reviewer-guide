@@ -1,17 +1,17 @@
 {
   slug: 'react-navigation-for-native-mobile-applications',
-    dependencies: {
-    react: '16.4.0',
-          },
+  dependencies: {
+  react: '',
+  },
   reviews: [
     {
-      performedOn: '2018-06-26',
-      performedBy: 186087,
-      scopeOfReview: 'full course lesson review',
+      performedOn: '',
+      performedBy: ,
+      scopeOfReview: '',
       notes: [
         {
-          type: 'major issue',
-          dependency: 'react-navigation',
+          type: '',
+          dependency: '',
           title:
             '',
           details:
