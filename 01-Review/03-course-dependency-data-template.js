@@ -1,21 +1,20 @@
 {
-  slug: 'react-navigation-for-native-mobile-applications',
-  dependencies: {
-  react: '',
+  slug: '',
+    dependencies: {
+    react: '',
   },
   reviews: [
     {
       performedOn: '',
-      performedBy: ,
+      performedBy: '',
       scopeOfReview: '',
       notes: [
         {
           type: '',
           dependency: '',
-          title:
-            '',
+          lessonsAffected: '',
+          title: '',
           details:
-            '',
         },
       ],
     },
